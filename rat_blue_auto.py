@@ -13,8 +13,8 @@ from datetime import datetime
 import requests
 
 # Telegram configuration
-TELEGRAM_BOT_TOKEN = "8619342086:AAFpOc7AyFKOiBnR1EclfWWpREzZvkOG1YM"
-TELEGRAM_CHAT_ID = "6163015719"
+TELEGRAM_BOT_TOKEN = "token fatherbot"
+TELEGRAM_CHAT_ID = "ID chat of userinfo"
 
 # Spoofed device configuration - Common headphone names
 SPOOF_NAMES = [
