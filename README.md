@@ -40,7 +40,7 @@ RAT_BLUE is an advanced Android exploitation framework that combines Bluetooth s
 
 ---
 
-## ✨ Features
+## <3 Features
 
 ### Exploitation Vector
 
@@ -117,7 +117,7 @@ sudo systemctl enable bluetooth
 
 ---
 
-## 🚀 Usage
+## + Usage
 
 ### Basic Exploitation
 
@@ -188,7 +188,7 @@ After successful exploitation, control the device via Telegram:
 
 ---
 
-## 🎯 Technical Details
+## <3 Technical Details
 
 ### Bluetooth Spoofing
 
@@ -253,40 +253,6 @@ ps aux | grep -E 'adb|scrcpy'
 
 ---
 
-## ⚠️ Legal Disclaimer
-
-**FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY**
-
-This tool is provided for educational purposes and security research only. The author assumes NO responsibility for misuse or damage caused by this program.
-
-### Legal Notice
-
-- Unauthorized access to computer systems is **ILLEGAL**
-- Creating or distributing malware is a **FEDERAL CRIME**
-- This tool is for **AUTHORIZED TESTING ONLY**
-
-### Laws & Regulations
-
-This software may violate:
-- Computer Fraud and Abuse Act (USA)
-- Computer Misuse Act (UK)
-- Similar laws in other jurisdictions
-
-### Ethical Use
-
-✅ **Authorized Use:**
-- Personal devices you own
-- Authorized penetration testing
-- Security research in controlled environments
-- Educational demonstrations with consent
-
-❌ **Prohibited Use:**
-- Unauthorized access to devices
-- Malicious intent
-- Distribution of malware
-- Violation of privacy laws
-
-**By using this software, you agree to use it responsibly and legally.**
 
 ---
 
@@ -346,9 +312,9 @@ This project is licensed under the MIT License for educational purposes only.
 
 ## 👤 Author
 
-Created for cybersecurity research and education.
+Built By ZeronX.. No limits, No bullshit..
 
-**Contact:** [Your Contact Info]
+**Contact:** [nulajak] DM DC
 
 ---
 
@@ -363,8 +329,4 @@ Created for cybersecurity research and education.
 
 <div align="center">
 
-**⚠️ REMEMBER: With great power comes great responsibility ⚠️**
 
-*This tool is for educational purposes only. Always obtain proper authorization before testing.*
-
-</div>
